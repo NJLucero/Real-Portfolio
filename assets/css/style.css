@@ -375,6 +375,11 @@ section {
   text-align: center;
   padding-bottom: 30px;
 }
+.section-contact-title {
+  text-align: center;
+  padding-bottom: 5px;
+}
+
 .section-title h2 {
   font-size: 36px;
   font-weight: 700;
