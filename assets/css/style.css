@@ -70,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
   background: none;
 }
 #header.header-scrolled {
-  background: rgba(68, 170, 43, 0.8);
+  background: rgba(247, 216, 151, 0.8);
   padding: 12px 0;
 }
 #header .logo h1 {
@@ -136,7 +136,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #85b0be;
+  color: #e8592f;
 }
 .navbar .dropdown ul {
   display: block;
@@ -368,7 +368,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f6f9fa;
+  background: rgba(247, 216, 151, 0.15);
 }
 
 .section-title {
@@ -386,7 +386,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #052c3f;
+  color: #444444;
 }
 .section-title p {
   margin-bottom: 0;
@@ -407,7 +407,7 @@ section {
   font-weight: 500;
   line-height: 32px;
   font-size: 24px;
-  color: #4d8090;
+  color:#052c3f;
 }
 .about .content ul {
   list-style: none;
@@ -446,7 +446,7 @@ section {
   height: 72px;
   border-radius: 50%;
   transition: 0.5s;
-  border: 2px solid #85b0be;
+  border: 2px solid #ec7e5c;
 }
 .services .icon i {
   color: #649aac;
@@ -460,7 +460,7 @@ section {
   font-size: 18px;
 }
 .services .title a {
-  color: #052c3f;
+  color: #4b4747;
   transition: 0.3s;
 }
 .services .description {
@@ -469,14 +469,14 @@ section {
   font-size: 14px;
 }
 .services .icon-box:hover .icon {
-  background: #85b0be;
+  background: #ec7e5c;
 }
 .services .icon-box:hover .icon i {
   color: #fff;
 }
 .services .icon-box:hover .title a {
-  color: #85b0be;
-}
+  color: #e8592f;
+}ec7e5c
 
 /*--------------------------------------------------------------
 # Featured
