@@ -324,7 +324,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero h2 {
   color: #eee;
   margin-bottom: 30px;
-  font-size: 24px;
+  font-size: 3rem;
 }
 #hero .btn-get-started {
   font-family: "Raleway", sans-serif;
@@ -403,6 +403,14 @@ section {
   margin-bottom: 20px;
   /* text-transform: uppercase; */
   color: #517557;
+}
+
+.about .image {
+  background: url(../img/myself.jpg) center center no-repeat;
+  background-size: cover;
+  min-height: 380px;
+  min-width: 350px;
+  margin-left: 200px;
 }
 .about .content h3 {
   font-weight: 500;
@@ -1103,7 +1111,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("../img/footer-bg.jpg") top center no-repeat;
+  background: url("../img/sand-footer.jpg") top center no-repeat;
   color: #fff;
   font-size: 14px;
   position: relative;
@@ -1115,7 +1123,7 @@ section {
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(1, 11, 16, 0.6);
+  background: rgba(37, 24, 21, 0.6);
   z-index: 1;
 }
 #footer .footer-top {
