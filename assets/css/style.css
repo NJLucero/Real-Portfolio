@@ -25,7 +25,7 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
-  color: #517557;
+  color: #755351;
 }
 
 /*--------------------------------------------------------------
@@ -406,11 +406,13 @@ section {
 }
 
 .about .image {
-  background: url(../img/myself.jpg) center center no-repeat;
+  background: url(../img/myself2.jpg) center center no-repeat;
   background-size: cover;
-  min-height: 380px;
-  min-width: 350px;
-  margin-left: 200px;
+  height: 350px;
+  width: 350px;
+  margin-left: 5rem;
+  border-radius:50%;
+ 
 }
 .about .content h3 {
   font-weight: 500;
